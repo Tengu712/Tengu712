@@ -1,10 +1,19 @@
 ## About Tengu712
 
-Hello, I'm a student at Tokyo University of Science with a passion for design and development.
+Hello, I'm a student at Tokyo University of Science.
+I enjoy designing and developing systems.
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?theme=light&perline=7&i=ocaml,rust,c,cpp,cs,java,ts,js,html,css,nextjs,vuejs,php,cloudflare)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?theme=light&i=c,cpp,cs,java,js,ocaml,php,py,rust,ts" alt="c,cpp,cs,java,js,ocaml,php,py,rust,ts">
+<br>
+<img src="https://skillicons.dev/icons?theme=light&i=dotnet,nextjs,nodejs,vue" alt="dotnet,nextjs,nodejs,vue">
+<br>
+<img src="https://skillicons.dev/icons?theme=light&i=cloudflare,firebase,git,github,vim" alt="cloudflare,firebase,git,github,vim">
+<br>
+<img src="./Microsoft-DirectX-Logo-wordmark.svg" width="25%" alt="DirectX"><img src="./Vulkan-API-logo.svg" width="25%" alt="Vulkan">
+<br>
+<img src="./OpenGL-logo.svg" width="25%" alt="OpenGL"><img src="./WebGL-logo.svg" width="25%" alt="WebGL">
 
 ### Status
 
