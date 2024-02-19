@@ -5,15 +5,19 @@ I enjoy designing and developing systems.
 
 ### My Skills
 
-<img src="https://skillicons.dev/icons?theme=light&i=c,cpp,cs,java,js,ocaml,php,py,rust,ts" alt="c,cpp,cs,java,js,ocaml,php,py,rust,ts">
-<br>
-<img src="https://skillicons.dev/icons?theme=light&i=dotnet,nextjs,nodejs,vue" alt="dotnet,nextjs,nodejs,vue">
-<br>
-<img src="https://skillicons.dev/icons?theme=light&i=cloudflare,firebase,git,github,vim" alt="cloudflare,firebase,git,github,vim">
-<br>
-<img src="./Microsoft-DirectX-Logo-wordmark.svg" width="25%" alt="DirectX"><img src="./Vulkan-API-logo.svg" width="25%" alt="Vulkan">
-<br>
-<img src="./OpenGL-logo.svg" width="25%" alt="OpenGL"><img src="./WebGL-logo.svg" width="25%" alt="WebGL">
+<div>
+  <img src="https://skillicons.dev/icons?theme=light&i=c,cpp,cs,java,js,ocaml,php,py,rust,ts" alt="c,cpp,cs,java,js,ocaml,php,py,rust,ts">
+  <br>
+  <img src="https://skillicons.dev/icons?theme=light&i=dotnet,nextjs,nodejs,vue" alt="dotnet,nextjs,nodejs,vue">
+  <br>
+  <img src="https://skillicons.dev/icons?theme=light&i=cloudflare,firebase,git,github,vim" alt="cloudflare,firebase,git,github,vim">
+</div>
+
+<div>
+  <img src="./Microsoft-DirectX-Logo-wordmark.svg" width="25%" alt="DirectX"><img src="./Vulkan-API-logo.svg" width="25%" alt="Vulkan">
+  <br>
+  <img src="./OpenGL-logo.svg" width="25%" alt="OpenGL"><img src="./WebGL-logo.svg" width="25%" alt="WebGL">
+</div>
 
 ### Status
 
