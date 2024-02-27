@@ -6,7 +6,7 @@ I enjoy designing and developing systems.
 ### My Skills
 
 <div>
-  <img src="https://skillicons.dev/icons?theme=light&i=c,cpp,cs,java,js,ocaml,php,py,rust,ts" alt="c,cpp,cs,java,js,ocaml,php,py,rust,ts">
+  <img src="https://skillicons.dev/icons?theme=light&perline=5&i=c,cpp,cs,java,js,ocaml,php,py,rust,ts" alt="c,cpp,cs,java,js,ocaml,php,py,rust,ts">
   <br>
   <img src="https://skillicons.dev/icons?theme=light&i=dotnet,nextjs,nodejs,vue" alt="dotnet,nextjs,nodejs,vue">
   <br>
@@ -14,9 +14,9 @@ I enjoy designing and developing systems.
 </div>
 
 <div>
-  <img src="./Microsoft-DirectX-Logo-wordmark.svg" width="25%" alt="DirectX"><img src="./Vulkan-API-logo.svg" width="25%" alt="Vulkan">
+  <img src="./Microsoft-DirectX-Logo-wordmark.svg" width="150px" alt="DirectX"> <img src="./Vulkan-API-logo.svg" width="150px" alt="Vulkan">
   <br>
-  <img src="./OpenGL-logo.svg" width="25%" alt="OpenGL"><img src="./WebGL-logo.svg" width="25%" alt="WebGL">
+  <img src="./OpenGL-logo.svg" width="150px" alt="OpenGL"> <img src="./WebGL-logo.svg" width="150px" alt="WebGL">
 </div>
 
 ### Status
