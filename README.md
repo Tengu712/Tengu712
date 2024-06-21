@@ -44,7 +44,7 @@ I enjoy designing and developing systems.
   <img src="https://skillicons.dev/icons?theme=light&i=vim">
 </div>
 
-### Status
+## Status
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengu712&layout=compact&show_icons=true" />
