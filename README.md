@@ -3,20 +3,45 @@
 Hello, I'm a student at Tokyo University of Science.
 I enjoy designing and developing systems.
 
-### My Skills
+## My Skills
 
-<div>
-  <img src="https://skillicons.dev/icons?theme=light&perline=5&i=c,cpp,cs,java,js,ocaml,php,py,rust,ts" alt="c,cpp,cs,java,js,ocaml,php,py,rust,ts">
-  <br>
-  <img src="https://skillicons.dev/icons?theme=light&i=dotnet,nextjs,nodejs,vue" alt="dotnet,nextjs,nodejs,vue">
-  <br>
-  <img src="https://skillicons.dev/icons?theme=light&i=cloudflare,firebase,git,github,vim" alt="cloudflare,firebase,git,github,vim">
+### Programming Languages
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?theme=light&i=c">
+  <img src="https://skillicons.dev/icons?theme=light&i=cpp">
+  <img src="https://skillicons.dev/icons?theme=light&i=cs">
+  <img src="https://skillicons.dev/icons?theme=light&i=java">
+  <img src="https://skillicons.dev/icons?theme=light&i=js">
+  <img src="https://skillicons.dev/icons?theme=light&i=ocaml">
+  <img src="https://skillicons.dev/icons?theme=light&i=php">
+  <img src="https://skillicons.dev/icons?theme=light&i=py">
+  <img src="https://skillicons.dev/icons?theme=light&i=rust">
+  <img src="https://skillicons.dev/icons?theme=light&i=ts">
 </div>
 
-<div>
-  <img src="./Microsoft-DirectX-Logo-wordmark.svg" width="150px" alt="DirectX"> <img src="./Vulkan-API-logo.svg" width="150px" alt="Vulkan">
-  <br>
-  <img src="./OpenGL-logo.svg" width="150px" alt="OpenGL"> <img src="./WebGL-logo.svg" width="150px" alt="WebGL">
+### Frameworks and Libraries
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?theme=light&i=dotnet">
+  <img src="https://skillicons.dev/icons?theme=light&i=nodejs">
+  <img src="https://skillicons.dev/icons?theme=light&i=vue">
+</div>
+
+- DirectX 9,11
+- WebGL 2
+- OpenGL
+- Vulkan
+
+### Platforms and Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?theme=light&i=cloudflare">
+  <img src="https://skillicons.dev/icons?theme=light&i=docker">
+  <img src="https://skillicons.dev/icons?theme=light&i=firebase">
+  <img src="https://skillicons.dev/icons?theme=light&i=git">
+  <img src="https://skillicons.dev/icons?theme=light&i=github">
+  <img src="https://skillicons.dev/icons?theme=light&i=vim">
 </div>
 
 ### Status
