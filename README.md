@@ -13,9 +13,6 @@ I enjoy designing and developing systems.
   <img src="https://skillicons.dev/icons?theme=light&i=cs">
   <img src="https://skillicons.dev/icons?theme=light&i=java">
   <img src="https://skillicons.dev/icons?theme=light&i=js">
-  <img src="https://skillicons.dev/icons?theme=light&i=ocaml">
-  <img src="https://skillicons.dev/icons?theme=light&i=php">
-  <img src="https://skillicons.dev/icons?theme=light&i=py">
   <img src="https://skillicons.dev/icons?theme=light&i=rust">
   <img src="https://skillicons.dev/icons?theme=light&i=ts">
 </div>
@@ -29,9 +26,10 @@ I enjoy designing and developing systems.
 </div>
 
 - DirectX 9,11
-- WebGL 2
 - OpenGL
 - Vulkan
+- WebGL 2
+- WebGPU
 
 ### Platforms and Tools
 
